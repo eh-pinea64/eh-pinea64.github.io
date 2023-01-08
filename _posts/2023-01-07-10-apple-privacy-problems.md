@@ -9,7 +9,8 @@ tags: [apple, privacy, online, thomasgermain, gizmodo]
 2. Apple Collects Details About Every Single Thing You Do In the App Store
 3. A Hidden Map of Everywhere You Go 
 4. You Ask Your Apps Not to Track You, But Sometimes Apple Lets Them Do It Anyway 
-5. Apple Collects Enough Data From Your Phone to Track the People You Hang Out With 6. Apple Makes iMessage Less Private On Purpose 
+5. Apple Collects Enough Data From Your Phone to Track the People You Hang Out With
+6. Apple Makes iMessage Less Private On Purpose 
 7. Targeted Ads 
 8. Think Your VPN Hides All Your Data? Think Again 
 9. How Private Are Your Conversations With Siri? 
