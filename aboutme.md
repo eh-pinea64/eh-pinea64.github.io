@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Over mij
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mijn naam is John Kronenberg. In mijn professionele leven testautomationarchitect en in mijn priveleven altijd op zoek naar kwalitatief goede artikelen.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Deze site ben ik begonnen omdat ik niet geloof in het in contact blijven met je vrienden, kennissen en andere bekenden door sociale media zoals Facebook.
+Sociale media blijft mijns inziens altijd oppervlakkig en eenzijdig. Het is beter om in contact te blijven via een eigen blog. Bovendien heeft Facebook en andere partijen privacy niet hoog in het vaandel staan. Ik denk dat online privacy in de komende periode heel belangrijk gaat worden.
