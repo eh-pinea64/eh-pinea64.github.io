@@ -5,5 +5,6 @@ subtitle: Maurits Martijn, Rob Wijnberg (De Correspondent)
 tags: [privacy, online, mauritsmartijn, robwijnberg, decorrespondent]
 ---
 
-* [https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
+[https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
+
 Gepubliceerd op: 21 oktober 2013
