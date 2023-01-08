@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Does Soccer Work?
+title: How Does Soccer Work
 subtitle: Alex Shephard (New Republic)
 tags: [voetbal, alexshephard, newrepublic]
 ---
