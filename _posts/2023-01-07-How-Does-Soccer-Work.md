@@ -11,4 +11,4 @@ tags: [voetbal, alexshephard, newrepublic]
 
 [https://newrepublic.com/article/169757/ryan-ohanlon-soccer-analytics-messi](https://newrepublic.com/article/169757/ryan-ohanlon-soccer-analytics-messi)
 
-Gepubliceerd op: 3 januari 2023
+Publication date: 01-03-2023

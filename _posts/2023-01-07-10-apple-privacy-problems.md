@@ -2,7 +2,7 @@
 layout: post
 title: 10 Apple Privacy Problems That Might Surprise You
 subtitle: Thomas Germain (Gizmodo)
-tags: [apple, privacy, online, thomasgermain, gizmodo]
+tags: [apple, privacy, online, thomasgermain, gizmodo, english]
 ---
 
 1. Apple Appears to Track You Even With Its Own Privacy Settings Turned Off 
@@ -18,4 +18,4 @@ tags: [apple, privacy, online, thomasgermain, gizmodo]
 
 [https://gizmodo.com/apple-iphone-ipad-privacy-problems-data-gathering-1849855092](https://gizmodo.com/apple-iphone-ipad-privacy-problems-data-gathering-1849855092)
 
-Gepubliceerd op: 7 december 2022
+Publication date: 12-07-2022

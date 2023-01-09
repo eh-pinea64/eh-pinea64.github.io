@@ -13,4 +13,4 @@ tags: [twitter, omarlgallaga, wired]
 
 [https://www.wired.com/story/how-to-decide-quit-twitter-mastodon-post-hive-social/](https://www.wired.com/story/how-to-decide-quit-twitter-mastodon-post-hive-social/)
 
-Gepubliceerd op: 5 januari 2023
+Publication date: 01-05-2023

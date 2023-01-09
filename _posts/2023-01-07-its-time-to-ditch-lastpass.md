@@ -15,4 +15,4 @@ tags: [privacy, security, online, lilyhaynewman, wired]
 
 [https://www.wired.com/story/lastpass-breach-vaults-password-managers](https://www.wired.com/story/lastpass-breach-vaults-password-managers/?itm_campaign=BottomRelatedStories&itm_content=footer-recirc)
 
-gepubliceerd op: 28 december 2022
+Publication date: 12-28-2022
