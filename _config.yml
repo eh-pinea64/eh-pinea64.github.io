@@ -20,10 +20,10 @@ author: John Kronenberg
 ###############################################
 
 navbar-links:
-  Wat is dit?: "aboutme"
-  Bronnen:
-    - Mijn zakelijke blog: "https://testautomate-it.com"
-    - Mijn Pinboard / Read It Later service: "https://pinboard.in/"
+  What is this?: "aboutme"
+  Sources:
+    - My professional blog: "https://testautomate-it.com"
+    - My Pinboard / Read It Later service: "https://pinboard.in/"
 
 ################
 # --- Logo --- #
